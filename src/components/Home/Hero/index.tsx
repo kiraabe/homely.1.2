@@ -36,7 +36,7 @@ const Hero: React.FC = () => {
             <div className='flex flex-col sm:items-center gap-3'>
               <Image
                 src={'/images/hero/sofa.svg'}
-                alt='sofa'
+                alt='coffee cup'
                 width={32}
                 height={32}
                 className='block dark:hidden'
@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
               />
               <Image
                 src={'/images/hero/dark-sofa.svg'}
-                alt='sofa'
+                alt='coffee cup'
                 width={32}
                 height={32}
                 className='hidden dark:block'
@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
             <div className='flex flex-col sm:items-center gap-3'>
               <Image
                 src={'/images/hero/tube.svg'}
-                alt='sofa'
+                alt='counter service'
                 width={32}
                 height={32}
                 className='block dark:hidden'
@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
               />
               <Image
                 src={'/images/hero/dark-tube.svg'}
-                alt='sofa'
+                alt='counter service'
                 width={32}
                 height={32}
                 className='hidden dark:block'
@@ -78,7 +78,7 @@ const Hero: React.FC = () => {
             <div className='flex flex-col sm:items-center gap-3'>
               <Image
                 src={'/images/hero/parking.svg'}
-                alt='sofa'
+                alt='seating area'
                 width={32}
                 height={32}
                 className='block dark:hidden'
@@ -86,7 +86,7 @@ const Hero: React.FC = () => {
               />
               <Image
                 src={'/images/hero/dark-parking.svg'}
-                alt='sofa'
+                alt='seating area'
                 width={32}
                 height={32}
                 className='hidden dark:block'
