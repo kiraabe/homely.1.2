@@ -2,8 +2,8 @@ import { PropertyHomes } from '@/types/properyHomes'
 
 export const propertyHomes: PropertyHomes[] = [
   {
-    name: 'Serenity height villas',
-    slug: 'serenity-height-villas',
+    name: 'Modern Kiosk Stand',
+    slug: 'modern-kiosk-stand',
     location: 'Modern kiosk stand, downtown',
     rate: '570,000',
     beds: 4,
@@ -25,8 +25,8 @@ export const propertyHomes: PropertyHomes[] = [
     ]
   },
   {
-    name: 'Mountain retreat villa',
-    slug: 'mountain-retreat-villa',
+    name: 'Premium Booth Space',
+    slug: 'premium-booth-space',
     location: 'Premium booth space, midtown',
     rate: '575,000',
     beds: 5,
@@ -48,8 +48,8 @@ export const propertyHomes: PropertyHomes[] = [
     ]
   },
   {
-    name: 'Modern luxe villa',
-    slug: 'modern-luxe-villa',
+    name: 'Retail Kiosk Area',
+    slug: 'retail-kiosk-area',
     location: 'Retail kiosk area, uptown',
     rate: '580,000',
     beds: 3,
@@ -71,8 +71,8 @@ export const propertyHomes: PropertyHomes[] = [
     ]
   },
   {
-    name: 'Royal orchid villas',
-    slug: 'royal-orchid-villas',
+    name: 'Commercial Kiosk Zone',
+    slug: 'commercial-kiosk-zone',
     location: 'Commercial kiosk zone, district',
     rate: '590,000',
     beds: 6,
@@ -94,8 +94,8 @@ export const propertyHomes: PropertyHomes[] = [
     ]
   },
   {
-    name: 'Grand vista villas',
-    slug: 'grand-cista-villas',
+    name: 'Premium Kiosk Space',
+    slug: 'premium-kiosk-space',
     location: 'Premium kiosk space, downtown',
     rate: '710,000',
     beds: 2,
@@ -117,8 +117,8 @@ export const propertyHomes: PropertyHomes[] = [
     ]
   },
   {
-    name: 'Imperial pearl villas',
-    slug: 'imperial-pearn-villas',
+    name: 'Elite Kiosk Outlet',
+    slug: 'elite-kiosk-outlet',
     location: 'Elite kiosk outlet, harbor',
     rate: '630,000',
     beds: 4,
