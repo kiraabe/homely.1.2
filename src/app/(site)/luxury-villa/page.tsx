@@ -3,16 +3,16 @@ import LuxuryVillas from "@/components/Properties/LuxuryVilla";
 import React from "react";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Property List | Homely",
+    title: "Digital & Electronics Kiosks | Kiosk Hub",
 };
 
 const page = () => {
     return (
         <>
             <HeroSub
-                title="Luxury Villas."
-                description="Experience elegance and comfort with our exclusive luxury  villas, designed for sophisticated living."
-                badge="Properties"
+                title="Digital & Electronics Kiosks."
+                description="Expand your tech business with our premium kiosk spaces. Mobile accessories, gadget displays, SIM card services, and device repair kiosks."
+                badge="Kiosk Areas"
             />
             <LuxuryVillas />
         </>

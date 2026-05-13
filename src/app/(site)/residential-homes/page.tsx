@@ -3,16 +3,16 @@ import ResidentialList from "@/components/Properties/Residential";
 import React from "react";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Property List | Homely",
+    title: "Food & Beverage Kiosks | Kiosk Hub",
 };
 
 const page = () => {
     return (
         <>
             <HeroSub
-                title="Residential Homes."
-                description="Experience elegance and comfort with our exclusive luxury  villas, designed for sophisticated living."
-                badge="Properties"
+                title="Food & Beverage Kiosks."
+                description="Launch your food and beverage business with our premium kiosk locations. Coffee stands, snack bars, juice kiosks, and fast-food counters."
+                badge="Kiosk Areas"
             />
             <ResidentialList />
         </>

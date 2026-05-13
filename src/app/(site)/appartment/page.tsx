@@ -3,16 +3,16 @@ import Appartment from "@/components/Properties/Appartment";
 import React from "react";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Property List | Homely",
+    title: "Fashion & Accessories Kiosks | Kiosk Hub",
 };
 
 const page = () => {
     return (
         <>
             <HeroSub
-                title="Apartments."
-                description="Experience elegance and comfort with our exclusive luxury  villas, designed for sophisticated living."
-                badge="Properties"
+                title="Fashion & Accessories Kiosks."
+                description="Showcase your fashion and accessories with our premium kiosk locations. Jewelry, watches, bags, sunglasses, cosmetics, and clothing accessories."
+                badge="Kiosk Areas"
             />
             <Appartment />
         </>
