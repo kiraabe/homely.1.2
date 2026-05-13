@@ -11,16 +11,16 @@ export const propertyHomes: PropertyHomes[] = [
     area: 120,
     images: [
       {
-        src: "/images/properties/property1/property1.jpg",
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fb04a6b5f5b9c4ea99184ac47b6a23bcb?format=webp&width=440&height=300",
       },
       {
-        src: "/images/properties/property1/image-2.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fe16fa3f7a24f47f5b40f2023baaf702e?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property1/image-3.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F3cb0d2afb36b496a962b04a7595f3c48?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property1/image-4.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F1c8e0047e3144bd59ae99808f2c3affc?format=webp&width=440&height=300"
       },
     ]
   },
@@ -34,16 +34,16 @@ export const propertyHomes: PropertyHomes[] = [
     area: 150,
     images: [
       {
-        src: "/images/properties/property2/property2.jpg",
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fbb2cd0eae1aa4499ab8e121a87141ba8?format=webp&width=440&height=300",
       },
       {
-        src: "/images/properties/property2/image-2.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F8ad5fd776f5240db94feafd2a90ad5fe?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property2/image-3.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fb04a6b5f5b9c4ea99184ac47b6a23bcb?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property2/image-4.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fe16fa3f7a24f47f5b40f2023baaf702e?format=webp&width=440&height=300"
       },
     ]
   },
@@ -57,16 +57,16 @@ export const propertyHomes: PropertyHomes[] = [
     area: 180,
     images: [
       {
-        src: "/images/properties/property3/property3.jpg",
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F3cb0d2afb36b496a962b04a7595f3c48?format=webp&width=440&height=300",
       },
       {
-        src: "/images/properties/property3/image-2.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F1c8e0047e3144bd59ae99808f2c3affc?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property3/image-3.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fbb2cd0eae1aa4499ab8e121a87141ba8?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property3/image-4.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F8ad5fd776f5240db94feafd2a90ad5fe?format=webp&width=440&height=300"
       },
     ]
   },
@@ -80,16 +80,16 @@ export const propertyHomes: PropertyHomes[] = [
     area: 200,
     images: [
       {
-        src: "/images/properties/property4/property4.jpg",
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F1c8e0047e3144bd59ae99808f2c3affc?format=webp&width=440&height=300",
       },
       {
-        src: "/images/properties/property4/image-2.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fbb2cd0eae1aa4499ab8e121a87141ba8?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property4/image-3.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F8ad5fd776f5240db94feafd2a90ad5fe?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property4/image-4.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fb04a6b5f5b9c4ea99184ac47b6a23bcb?format=webp&width=440&height=300"
       },
     ]
   },
@@ -103,16 +103,16 @@ export const propertyHomes: PropertyHomes[] = [
     area: 90,
     images: [
       {
-        src: "/images/properties/property5/property5.jpg",
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fe16fa3f7a24f47f5b40f2023baaf702e?format=webp&width=440&height=300",
       },
       {
-        src: "/images/properties/property5/image-2.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F3cb0d2afb36b496a962b04a7595f3c48?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property5/image-3.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F1c8e0047e3144bd59ae99808f2c3affc?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property5/image-4.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fbb2cd0eae1aa4499ab8e121a87141ba8?format=webp&width=440&height=300"
       },
     ]
   },
@@ -126,16 +126,16 @@ export const propertyHomes: PropertyHomes[] = [
     area: 130,
     images: [
       {
-        src: "/images/properties/property6/property6.jpg",
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F8ad5fd776f5240db94feafd2a90ad5fe?format=webp&width=440&height=300",
       },
       {
-        src: "/images/properties/property6/image-2.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fb04a6b5f5b9c4ea99184ac47b6a23bcb?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property6/image-3.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2Fe16fa3f7a24f47f5b40f2023baaf702e?format=webp&width=440&height=300"
       },
       {
-        src: "/images/properties/property6/image-4.jpg"
+        src: "https://cdn.builder.io/api/v1/image/assets%2F2ca078110e7a4bf7ab8b0c84a85786df%2F3cb0d2afb36b496a962b04a7595f3c48?format=webp&width=440&height=300"
       },
     ]
   },
