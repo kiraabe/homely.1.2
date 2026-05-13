@@ -96,7 +96,7 @@ const FeaturedProperty: React.FC = () => {
                 <div className="bg-dark/5 dark:bg-white/5 p-2.5 rounded-[6px]">
                   <Image
                     src={'/images/hero/sofa.svg'}
-                    alt='sofa'
+                    alt='coffee cup'
                     width={24}
                     height={24}
                     className='block dark:hidden'
@@ -104,20 +104,20 @@ const FeaturedProperty: React.FC = () => {
                   />
                   <Image
                     src={'/images/hero/dark-sofa.svg'}
-                    alt='sofa'
+                    alt='coffee cup'
                     width={24}
                     height={24}
                     className='hidden dark:block'
                     unoptimized={true}
                   />
                 </div>
-                <h6 className="">4 Bedrooms</h6>
+                <h6 className="">4 Counter Spots</h6>
               </div>
               <div className="flex items-center gap-4">
                 <div className="bg-dark/5 dark:bg-white/5 p-2.5 rounded-[6px]">
                   <Image
                     src={'/images/hero/tube.svg'}
-                    alt='tube'
+                    alt='counter service'
                     width={24}
                     height={24}
                     className='block dark:hidden'
@@ -125,20 +125,20 @@ const FeaturedProperty: React.FC = () => {
                   />
                   <Image
                     src={'/images/hero/dark-tube.svg'}
-                    alt='tube'
+                    alt='counter service'
                     width={24}
                     height={24}
                     className='hidden dark:block'
                     unoptimized={true}
                   />
                 </div>
-                <h6 className="">3 Bathrooms</h6>
+                <h6 className="">3 Seating Areas</h6>
               </div>
               <div className="flex items-center gap-4">
                 <div className="bg-dark/5 dark:bg-white/5 p-2.5 rounded-[6px]">
                   <Image
                     src={'/images/hero/parking.svg'}
-                    alt='parking'
+                    alt='seating area'
                     width={24}
                     height={24}
                     className='block dark:hidden'
@@ -146,20 +146,20 @@ const FeaturedProperty: React.FC = () => {
                   />
                   <Image
                     src={'/images/hero/dark-parking.svg'}
-                    alt='parking'
+                    alt='seating area'
                     width={24}
                     height={24}
                     className='hidden dark:block'
                     unoptimized={true}
                   />
                 </div>
-                <h6 className="">Parking Space</h6>
+                <h6 className="">Premium Layout</h6>
               </div>
               <div className="flex items-center gap-4">
                 <div className="bg-dark/5 dark:bg-white/5 p-2.5 rounded-[6px]">
                   <Image
                     src={'/images/hero/bar.svg'}
-                    alt='bar'
+                    alt='beverage'
                     width={24}
                     height={24}
                     className='block dark:hidden'
@@ -167,14 +167,14 @@ const FeaturedProperty: React.FC = () => {
                   />
                   <Image
                     src={'/images/hero/dark-bar.svg'}
-                    alt='bar'
+                    alt='beverage'
                     width={24}
                     height={24}
                     className='hidden dark:block'
                     unoptimized={true}
                   />
                 </div>
-                <h6 className="">2 Bar areas</h6>
+                <h6 className="">Beverage Station</h6>
               </div>
             </div>
             <div className="flex gap-10">
