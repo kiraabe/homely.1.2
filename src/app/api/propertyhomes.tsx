@@ -4,7 +4,7 @@ export const propertyHomes: PropertyHomes[] = [
   {
     name: 'Serenity height villas',
     slug: 'serenity-height-villas',
-    location: 'Modern kiosk stand, downtown',
+    location: '15 s aurora ave, miami',
     rate: '570,000',
     beds: 4,
     baths: 3,
@@ -27,7 +27,7 @@ export const propertyHomes: PropertyHomes[] = [
   {
     name: 'Mountain retreat villa',
     slug: 'mountain-retreat-villa',
-    location: 'Premium booth space, midtown',
+    location: '18 s aurora ave, miami',
     rate: '575,000',
     beds: 5,
     baths: 2,
@@ -50,7 +50,7 @@ export const propertyHomes: PropertyHomes[] = [
   {
     name: 'Modern luxe villa',
     slug: 'modern-luxe-villa',
-    location: 'Retail kiosk area, uptown',
+    location: '20 s aurora ave, miami',
     rate: '580,000',
     beds: 3,
     baths: 4,
@@ -73,7 +73,7 @@ export const propertyHomes: PropertyHomes[] = [
   {
     name: 'Royal orchid villas',
     slug: 'royal-orchid-villas',
-    location: 'Commercial kiosk zone, district',
+    location: '12 emerald heights, los angeles',
     rate: '590,000',
     beds: 6,
     baths: 3,
@@ -96,7 +96,7 @@ export const propertyHomes: PropertyHomes[] = [
   {
     name: 'Grand vista villas',
     slug: 'grand-cista-villas',
-    location: 'Premium kiosk space, downtown',
+    location: '25 skyline boulevard, san diego',
     rate: '710,000',
     beds: 2,
     baths: 1,
@@ -119,7 +119,7 @@ export const propertyHomes: PropertyHomes[] = [
   {
     name: 'Imperial pearl villas',
     slug: 'imperial-pearn-villas',
-    location: 'Elite kiosk outlet, harbor',
+    location: '18 sapphire bay road, naples',
     rate: '630,000',
     beds: 4,
     baths: 2,
