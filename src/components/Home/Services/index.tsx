@@ -37,13 +37,13 @@ const Categories = () => {
             <p className="text-dark/50 dark:text-white/50 text-lg lg:max-w-full leading-[1.3] md:max-w-3/4">
               Discover a wide variety of retail and service kiosks, from food and beverages to digital electronics, fashion, and more.
             </p>
-            <Link href="/kiosks" className="py-4 px-8 bg-primary text-base leading-4 block w-fit text-white rounded-full font-semibold mt-8 hover:bg-dark duration-300">
+            <Link href="/" className="py-4 px-8 bg-primary text-base leading-4 block w-fit text-white rounded-full font-semibold mt-8 hover:bg-dark duration-300">
               View kiosks
             </Link>
           </div>
           <div className="lg:col-span-6 col-span-12">
             <div className="relative rounded-2xl overflow-hidden group">
-              <Link href="/residential-homes">
+              <Link href="/">
                 <Image
                   src="/images/categories/villas.jpg"
                   alt="villas"
@@ -53,7 +53,7 @@ const Categories = () => {
                   unoptimized={true}
                 />
               </Link>
-              <Link href="/food-beverage-kiosk" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
+              <Link href="/" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
                 <div className="flex justify-end mt-6 mr-6">
                   <div className="bg-white text-dark rounded-full w-fit p-4">
                     <Icon icon="ph:arrow-right" width={24} height={24} />
@@ -72,7 +72,7 @@ const Categories = () => {
           </div>
           <div className="lg:col-span-6 col-span-12">
             <div className="relative rounded-2xl overflow-hidden group">
-              <Link href="/luxury-villa">
+              <Link href="/">
                 <Image
                   src="/images/categories/luxury-villa.jpg"
                   alt="villas"
@@ -82,7 +82,7 @@ const Categories = () => {
                   unoptimized={true}
                 />
               </Link>
-              <Link href="/digital-electronics-kiosk" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
+              <Link href="/" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
                 <div className="flex justify-end mt-6 mr-6">
                   <div className="bg-white text-dark rounded-full w-fit p-4">
                     <Icon icon="ph:arrow-right" width={24} height={24} />
@@ -101,7 +101,7 @@ const Categories = () => {
           </div>
           <div className="lg:col-span-3 col-span-6">
             <div className="relative rounded-2xl overflow-hidden group">
-              <Link href="/appartment">
+              <Link href="/">
                 <Image
                   src="/images/categories/appartment.jpg"
                   alt="villas"
@@ -111,7 +111,7 @@ const Categories = () => {
                   unoptimized={true}
                 />
               </Link>
-              <Link href="/fashion-accessories-kiosk" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
+              <Link href="/" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
                 <div className="flex justify-end mt-6 mr-6">
                   <div className="bg-white text-dark rounded-full w-fit p-4">
                     <Icon icon="ph:arrow-right" width={24} height={24} />
@@ -130,7 +130,7 @@ const Categories = () => {
           </div>
           <div className="lg:col-span-3 col-span-6">
             <div className="relative rounded-2xl overflow-hidden group">
-              <Link href="/office-spaces">
+              <Link href="/">
                 <Image
                   src="/images/categories/office.jpg"
                   alt="office"
@@ -140,7 +140,7 @@ const Categories = () => {
                   unoptimized={true}
                 />
               </Link>
-              <Link href="/service-information-kiosk" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
+              <Link href="/" className="absolute w-full h-full bg-gradient-to-b from-black/0 to-black/80 top-full flex flex-col justify-between pl-10 pb-10 group-hover:top-0 duration-500">
                 <div className="flex justify-end mt-6 mr-6">
                   <div className="bg-white text-dark rounded-full w-fit p-4">
                     <Icon icon="ph:arrow-right" width={24} height={24} />

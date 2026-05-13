@@ -12,7 +12,7 @@ const PropertyCard: React.FC<{ item: PropertyHomes }> = ({ item }) => {
     <div>
       <div className='relative rounded-2xl border border-dark/10 dark:border-white/10 group hover:shadow-3xl duration-300 dark:hover:shadow-white/20'>
         <div className='overflow-hidden rounded-t-2xl h-[300px]'>
-          <Link href={`/properties/${slug}`}>
+          <Link href={`/`}>
             {mainImage && (
               <Image
                 src={mainImage}
@@ -36,7 +36,7 @@ const PropertyCard: React.FC<{ item: PropertyHomes }> = ({ item }) => {
         <div className='p-6'>
           <div className='flex flex-col mobile:flex-row gap-5 mobile:gap-0 justify-between mb-6'>
             <div>
-              <Link href={`/properties/${slug}`}>
+              <Link href={`/`}>
                 <h3 className='text-xl font-medium text-black dark:text-white duration-300 group-hover:text-primary'>
                   {name}
                 </h3>

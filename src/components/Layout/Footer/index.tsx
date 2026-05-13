@@ -23,13 +23,13 @@ const Footer = () => {
             </p>
           </div>
           <div className="flex items-center gap-6">
-            <Link href="#">
+            <Link href="/">
               <Icon icon="ph:x-logo-bold" width={24} height={24} className="text-white hover:text-primary duration-300" />
             </Link>
-            <Link href="#">
+            <Link href="/">
               <Icon icon="ph:facebook-logo-bold" width={24} height={24} className="text-white hover:text-primary duration-300" />
             </Link>
-            <Link href="#">
+            <Link href="/">
               <Icon icon="ph:instagram-logo-bold" width={24} height={24} className="text-white hover:text-primary duration-300" />
             </Link>
           </div>
@@ -41,7 +41,7 @@ const Footer = () => {
                 Launch your kiosk business,
                 contact us today.
               </h2>
-              <Link href="/contactus" className="bg-primary text-base font-semibold py-4 px-8 rounded-full text-white hover:bg-white hover:text-dark duration-300 hover:cursor-pointer">
+              <Link href="/" className="bg-primary text-base font-semibold py-4 px-8 rounded-full text-white hover:bg-white hover:text-dark duration-300 hover:cursor-pointer">
                 Get In Touch
               </Link>
             </div>
@@ -74,10 +74,10 @@ const Footer = () => {
             ©{new Date().getFullYear()} Powered by <Link href="#" className="hover:text-primary">EKD Tech Solutions</Link>
           </p>
           <div className="flex gap-8 items-center">
-            <Link href="#" className="text-white/40 hover:text-primary text-sm">
+            <Link href="/" className="text-white/40 hover:text-primary text-sm">
               Terms of service
             </Link>
-            <Link href="#" className="text-white/40 hover:text-primary text-sm">
+            <Link href="/" className="text-white/40 hover:text-primary text-sm">
               Privacy policy
             </Link>
           </div>

@@ -21,7 +21,7 @@ const GetInTouch: React.FC = () => {
                                 Ready to grow your business?
                                 Launch your kiosk today.
                             </h2>
-                            <Link href="#" className='bg-white py-4 px-8 rounded-full text-dark hover:bg-dark hover:text-white duration-300'>
+                            <Link href="/" className='bg-white py-4 px-8 rounded-full text-dark hover:bg-dark hover:text-white duration-300'>
                                 Get In Touch
                             </Link>
                         </div>
