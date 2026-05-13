@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
           </div>
           <div className='hidden md:block absolute -top-2 -right-68'>
             <Image
-              src='https://cdn.builder.io/api/v1/image/assets%2F98f8e825a1ed400d827c0bf3120a28e1%2F7327205f755049758fb1c465ea8f8c29?format=webp&width=800&height=1200'
+              src='https://cdn.builder.io/api/v1/image/assets%2Fdbe65c117db24748bfd99f727e8c3a25%2Ff1078953efba47df9d4c9a972f73c806?format=webp&width=800&height=1200'
               alt='heroImg'
               width={1082}
               height={1016}
