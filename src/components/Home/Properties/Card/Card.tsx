@@ -11,7 +11,7 @@ const PropertyCard: React.FC<{ item: PropertyHomes }> = ({ item }) => {
   return (
     <div>
       <div className='relative rounded-2xl border border-dark/10 dark:border-white/10 group hover:shadow-3xl duration-300 dark:hover:shadow-white/20'>
-        <div className='overflow-hidden rounded-t-2xl'>
+        <div className='overflow-hidden rounded-t-2xl h-[300px]'>
           <Link href={`/properties/${slug}`}>
             {mainImage && (
               <Image
@@ -19,7 +19,7 @@ const PropertyCard: React.FC<{ item: PropertyHomes }> = ({ item }) => {
                 alt={name}
                 width={440}
                 height={300}
-                className='w-full rounded-t-2xl group-hover:brightness-50 group-hover:scale-125 transition duration-300 delay-75'
+                className='w-full h-full object-cover rounded-t-2xl group-hover:brightness-50 group-hover:scale-125 transition duration-300 delay-75'
                 unoptimized={true}
               />
             )}
