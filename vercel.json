@@ -2,13 +2,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "env": {
-    "NEXT_PUBLIC_SITE_URL": "@site_url"
-  },
-  "functions": {
-    "api/**/*.ts": {
-      "memory": 1024,
-      "maxDuration": 60
-    }
+    "NEXT_PUBLIC_SITE_URL": "https://kiosk.vercel.app"
   },
   "headers": [
     {
